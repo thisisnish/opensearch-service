@@ -1,0 +1,7 @@
+REQUEST_TYPE_PRODUCT_SEARCH = "product_search"
+REQUEST_TYPE_PRODUCT_DETAIL = "product_detail"
+REQUEST_TYPE_FACETS = "facets"
+MESSAGE_INTERNAL_SERVICE_ERROR = "Internal Service Error"
+MESSAGE_OPEN_SEARCH_FAILURE = "OpenSearch failure"
+MESSAGE_ADS_SEARCH_FAILURE = "Ads Search failure"
+MESSAGE_SCHEMA_VALIDATION_FAILURE = "Schema validation failure"
