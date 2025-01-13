@@ -1,0 +1,692 @@
+[
+  {
+    "vtexProductId": 36,
+    "vtexSkuId": "46",
+    "tradePolicy": "2",
+    "productResult": {
+      "productId": 36,
+      "productName": "Gold Standard 100% Whey",
+      "brand": "Test Brand name",
+      "brandId": "2000000",
+      "cacheId": "sp-36",
+      "linkText": "gold-standard-100-whey-1705451404327",
+      "productReference": "MKLC_PRODUCT_1705451404327",
+      "categoryId": "??? frontend",
+      "clusterHighlights": "??? frontend maybe",
+      "productClusters": "??? frontend maybe how to refine",
+      "categories": [
+        "??? frontend"
+      ],
+      "categoriesIds": [
+        "??? frontend"
+      ],
+      "link": "/gold-standard-100-whey-1705451404327/p",
+      "description": "Gold standard 100% whey protein isolates",
+      "priceRange": "???",
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "CA Proposition 65 Warning Type",
+              "name": "CA Proposition 65 Warning Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "CPSIA Warning",
+              "name": "CPSIA Warning",
+              "values": [
+                "No Warning Applicable"
+              ]
+            },
+            {
+              "originalName": "Target Audience",
+              "name": "Target Audience",
+              "values": [
+                "All Adults"
+              ]
+            },
+            {
+              "originalName": "Country or Region of Origin",
+              "name": "Country or Region of Origin",
+              "values": [
+                "United States"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 3",
+              "name": "Product Details Bullet Point 3",
+              "values": [
+                "vanilla extract"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 2",
+              "name": "Product Details Bullet Point 2",
+              "values": [
+                "milli vanilla"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 1",
+              "name": "Product Details Bullet Point 1",
+              "values": [
+                "vanilla ice"
+              ]
+            },
+            {
+              "originalName": "Universal Product ID Type",
+              "name": "Universal Product ID Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "Seller Tax Code",
+              "name": "Seller Tax Code",
+              "values": [
+                "P0000000"
+              ]
+            },
+            {
+              "originalName": "FSA or HSA Eligibility",
+              "name": "FSA or HSA Eligibility",
+              "values": [
+                "FSA Eligible"
+              ]
+            }
+          ]
+        },
+        {
+          "originalName": "CC",
+          "name": "CC",
+          "specifications": [
+            {
+              "originalName": "CA Proposition 65 Warning Type",
+              "name": "CA Proposition 65 Warning Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "CPSIA Warning",
+              "name": "CPSIA Warning",
+              "values": [
+                "No Warning Applicable"
+              ]
+            },
+            {
+              "originalName": "Target Audience",
+              "name": "Target Audience",
+              "values": [
+                "All Adults"
+              ]
+            },
+            {
+              "originalName": "Country or Region of Origin",
+              "name": "Country or Region of Origin",
+              "values": [
+                "United States"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 3",
+              "name": "Product Details Bullet Point 3",
+              "values": [
+                "vanilla extract"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 2",
+              "name": "Product Details Bullet Point 2",
+              "values": [
+                "milli vanilla"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 1",
+              "name": "Product Details Bullet Point 1",
+              "values": [
+                "vanilla ice"
+              ]
+            },
+            {
+              "originalName": "Universal Product ID Type",
+              "name": "Universal Product ID Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "Seller Tax Code",
+              "name": "Seller Tax Code",
+              "values": [
+                "P0000000"
+              ]
+            }
+          ]
+        },
+        {
+          "originalName": "Health and Personal Care",
+          "name": "Health and Personal Care",
+          "specifications": [
+            {
+              "originalName": "FSA or HSA Eligibility",
+              "name": "FSA or HSA Eligibility",
+              "values": [
+                "FSA Eligible"
+              ]
+            }
+          ]
+        }
+      ],
+      "properties": [
+        "array of things"
+      ],
+      "selectedProperties": [],
+      "releaseDate": "2024-01-17T00:00:00Z"
+    },
+    "productSkuResult": {
+      "skuSpecifications": [
+        {
+          "field": {
+            "name": "Flavor",
+            "originalName": "Flavor"
+          },
+          "values": [
+            {
+              "name": "Vanilla",
+              "originalName": "Vanilla"
+            }
+          ]
+        },
+        {
+          "field": {
+            "name": "Count/Size",
+            "originalName": "Count/Size"
+          },
+          "values": [
+            {
+              "name": "90",
+              "originalName": "90"
+            }
+          ]
+        }
+      ],
+      "item": {
+        "itemId": "46",
+        "name": "Gold Standard 100% Whey",
+        "nameComplete": "Gold Standard 100% Whey Vanilla 90 servings",
+        "complementName": "",
+        "ean": "???",
+        "referenceId": [
+          {
+            "Key": "Ean",
+            "Value": "gold-whey-90-van"
+          },
+          {
+            "Key": "RefId",
+            "Value": "MKLC_SKU_1705451405586"
+          }
+        ],
+        "measurementUnit": "un",
+        "modalType": null,
+        "images": [
+          {
+            "imageId": 155458,
+            "imageLabel": "image_1",
+            "imageTag": "",
+            "imageUrl": "https://hearstdev.vteximg.com.br/arquivos/ids/155458/image_1.jpg?v=638410482064970000",
+            "imageText": "image_1"
+          }
+        ],
+        "Videos": [],
+        "variations": [
+          {
+            "name": "Flavor",
+            "values": [
+              "Vanilla"
+            ]
+          },
+          {
+            "name": "Count/Size",
+            "values": [
+              "90"
+            ]
+          }
+        ],
+        "attachments": [],
+        "isKit": false,
+        "kitItems": [],
+        "Flavor": [
+          "Vanilla"
+        ],
+        "Count/Size": [
+          "90"
+        ]
+      }
+    },
+    "offerItemResult": {
+      "sellers": [
+        {
+          "sellerId": "2010",
+          "sellerName": "WTF?",
+          "addToCartLink": "",
+          "sellerDefault": false,
+          "commertialOffer": {
+            "Price": 34.43,
+            "ListPrice": 34.43,
+            "PriceWithoutDiscount": 34.43,
+            "AvailabilityQuantity": 41,
+            "DeliverySlaSamplesPerRegion": {},
+            "DeliverySlaSamples": [],
+            "discountHighlights": [],
+            "Installments": [],
+            "taxPercentage": 0,
+            "Tax": 0,
+            "GiftSkuIds": [],
+            "BuyTogether": [],
+            "ItemMetadataAttachment": [],
+            "RewardValue": 0,
+            "PriceValidUntil": null,
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "",
+            "teasers": []
+          }
+        },
+        {
+          "sellerId": "2007",
+          "sellerName": "WTF?",
+          "addToCartLink": "",
+          "sellerDefault": false,
+          "commertialOffer": {
+            "Price": 46.46,
+            "ListPrice": 46.46,
+            "PriceWithoutDiscount": 46.46,
+            "AvailabilityQuantity": 41,
+            "DeliverySlaSamplesPerRegion": {},
+            "DeliverySlaSamples": [],
+            "discountHighlights": [],
+            "Installments": [],
+            "taxPercentage": 0,
+            "Tax": 0,
+            "GiftSkuIds": [],
+            "BuyTogether": [],
+            "ItemMetadataAttachment": [],
+            "RewardValue": 0,
+            "PriceValidUntil": null,
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "",
+            "teasers": []
+          }
+        },
+        {
+          "sellerId": "2018",
+          "sellerName": "WTF?",
+          "addToCartLink": "",
+          "sellerDefault": false,
+          "commertialOffer": {
+            "Price": 2046.21,
+            "ListPrice": 2046.21,
+            "PriceWithoutDiscount": 2046.21,
+            "AvailabilityQuantity": 490563,
+            "DeliverySlaSamplesPerRegion": {},
+            "DeliverySlaSamples": [],
+            "discountHighlights": [],
+            "Installments": [],
+            "taxPercentage": 0,
+            "Tax": 0,
+            "GiftSkuIds": [],
+            "BuyTogether": [],
+            "ItemMetadataAttachment": [],
+            "RewardValue": 0,
+            "PriceValidUntil": null,
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "",
+            "teasers": []
+          }
+        }
+      ]
+    },
+    "searchProductFields": {
+      "brand": "test-brand-name",
+      "productName": "Gold Standard 100% Whey",
+      "description": "Gold standard 100% whey protein isolates"
+    }
+  },
+  {
+    "vtexProductId": 36,
+    "vtexSkuId": "46",
+    "tradePolicy": "3",
+    "productResult": {
+      "productId": 36,
+      "productName": "Gold Standard 100% Whey",
+      "brand": "Test Brand name",
+      "brandId": "2000000",
+      "cacheId": "sp-36",
+      "linkText": "gold-standard-100-whey-1705451404327",
+      "productReference": "MKLC_PRODUCT_1705451404327",
+      "categoryId": "??? frontend",
+      "clusterHighlights": "??? frontend maybe",
+      "productClusters": "??? frontend maybe how to refine",
+      "categories": [
+        "??? frontend"
+      ],
+      "categoriesIds": [
+        "??? frontend"
+      ],
+      "link": "/gold-standard-100-whey-1705451404327/p",
+      "description": "Gold standard 100% whey protein isolates",
+      "priceRange": "???",
+      "specificationGroups": [
+        {
+          "originalName": "allSpecifications",
+          "name": "allSpecifications",
+          "specifications": [
+            {
+              "originalName": "CA Proposition 65 Warning Type",
+              "name": "CA Proposition 65 Warning Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "CPSIA Warning",
+              "name": "CPSIA Warning",
+              "values": [
+                "No Warning Applicable"
+              ]
+            },
+            {
+              "originalName": "Target Audience",
+              "name": "Target Audience",
+              "values": [
+                "All Adults"
+              ]
+            },
+            {
+              "originalName": "Country or Region of Origin",
+              "name": "Country or Region of Origin",
+              "values": [
+                "United States"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 3",
+              "name": "Product Details Bullet Point 3",
+              "values": [
+                "vanilla extract"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 2",
+              "name": "Product Details Bullet Point 2",
+              "values": [
+                "milli vanilla"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 1",
+              "name": "Product Details Bullet Point 1",
+              "values": [
+                "vanilla ice"
+              ]
+            },
+            {
+              "originalName": "Universal Product ID Type",
+              "name": "Universal Product ID Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "Seller Tax Code",
+              "name": "Seller Tax Code",
+              "values": [
+                "P0000000"
+              ]
+            },
+            {
+              "originalName": "FSA or HSA Eligibility",
+              "name": "FSA or HSA Eligibility",
+              "values": [
+                "FSA Eligible"
+              ]
+            }
+          ]
+        },
+        {
+          "originalName": "CC",
+          "name": "CC",
+          "specifications": [
+            {
+              "originalName": "CA Proposition 65 Warning Type",
+              "name": "CA Proposition 65 Warning Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "CPSIA Warning",
+              "name": "CPSIA Warning",
+              "values": [
+                "No Warning Applicable"
+              ]
+            },
+            {
+              "originalName": "Target Audience",
+              "name": "Target Audience",
+              "values": [
+                "All Adults"
+              ]
+            },
+            {
+              "originalName": "Country or Region of Origin",
+              "name": "Country or Region of Origin",
+              "values": [
+                "United States"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 3",
+              "name": "Product Details Bullet Point 3",
+              "values": [
+                "vanilla extract"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 2",
+              "name": "Product Details Bullet Point 2",
+              "values": [
+                "milli vanilla"
+              ]
+            },
+            {
+              "originalName": "Product Details Bullet Point 1",
+              "name": "Product Details Bullet Point 1",
+              "values": [
+                "vanilla ice"
+              ]
+            },
+            {
+              "originalName": "Universal Product ID Type",
+              "name": "Universal Product ID Type",
+              "values": [
+                "Not Applicable"
+              ]
+            },
+            {
+              "originalName": "Seller Tax Code",
+              "name": "Seller Tax Code",
+              "values": [
+                "P0000000"
+              ]
+            }
+          ]
+        },
+        {
+          "originalName": "Health and Personal Care",
+          "name": "Health and Personal Care",
+          "specifications": [
+            {
+              "originalName": "FSA or HSA Eligibility",
+              "name": "FSA or HSA Eligibility",
+              "values": [
+                "FSA Eligible"
+              ]
+            }
+          ]
+        }
+      ],
+      "properties": [
+        "array of things"
+      ],
+      "selectedProperties": [],
+      "releaseDate": "2024-01-17T00:00:00Z"
+    },
+    "productSkuResult": {
+      "skuSpecifications": [
+        {
+          "field": {
+            "name": "Flavor",
+            "originalName": "Flavor"
+          },
+          "values": [
+            {
+              "name": "Vanilla",
+              "originalName": "Vanilla"
+            }
+          ]
+        },
+        {
+          "field": {
+            "name": "Count/Size",
+            "originalName": "Count/Size"
+          },
+          "values": [
+            {
+              "name": "90",
+              "originalName": "90"
+            }
+          ]
+        }
+      ],
+      "item": {
+        "itemId": "46",
+        "name": "Gold Standard 100% Whey",
+        "nameComplete": "Gold Standard 100% Whey Vanilla 90 servings",
+        "complementName": "",
+        "ean": "???",
+        "referenceId": [
+          {
+            "Key": "Ean",
+            "Value": "gold-whey-90-van"
+          },
+          {
+            "Key": "RefId",
+            "Value": "MKLC_SKU_1705451405586"
+          }
+        ],
+        "measurementUnit": "un",
+        "modalType": null,
+        "images": [
+          {
+            "imageId": 155458,
+            "imageLabel": "image_1",
+            "imageTag": "",
+            "imageUrl": "https://hearstdev.vteximg.com.br/arquivos/ids/155458/image_1.jpg?v=638410482064970000",
+            "imageText": "image_1"
+          }
+        ],
+        "Videos": [],
+        "variations": [
+          {
+            "name": "Flavor",
+            "values": [
+              "Vanilla"
+            ]
+          },
+          {
+            "name": "Count/Size",
+            "values": [
+              "90"
+            ]
+          }
+        ],
+        "attachments": [],
+        "isKit": false,
+        "kitItems": [],
+        "Flavor": [
+          "Vanilla"
+        ],
+        "Count/Size": [
+          "90"
+        ]
+      }
+    },
+    "offerItemResult": {
+      "sellers": [
+        {
+          "sellerId": "2010",
+          "sellerName": "WTF?",
+          "addToCartLink": "",
+          "sellerDefault": false,
+          "commertialOffer": {
+            "Price": 34.43,
+            "ListPrice": 34.43,
+            "PriceWithoutDiscount": 34.43,
+            "AvailabilityQuantity": 41,
+            "DeliverySlaSamplesPerRegion": {},
+            "DeliverySlaSamples": [],
+            "discountHighlights": [],
+            "Installments": [],
+            "taxPercentage": 0,
+            "Tax": 0,
+            "GiftSkuIds": [],
+            "BuyTogether": [],
+            "ItemMetadataAttachment": [],
+            "RewardValue": 0,
+            "PriceValidUntil": null,
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "",
+            "teasers": []
+          }
+        },
+        {
+          "sellerId": "2007",
+          "sellerName": "WTF?",
+          "addToCartLink": "",
+          "sellerDefault": false,
+          "commertialOffer": {
+            "Price": 46.46,
+            "ListPrice": 46.46,
+            "PriceWithoutDiscount": 46.46,
+            "AvailabilityQuantity": 41,
+            "DeliverySlaSamplesPerRegion": {},
+            "DeliverySlaSamples": [],
+            "discountHighlights": [],
+            "Installments": [],
+            "taxPercentage": 0,
+            "Tax": 0,
+            "GiftSkuIds": [],
+            "BuyTogether": [],
+            "ItemMetadataAttachment": [],
+            "RewardValue": 0,
+            "PriceValidUntil": null,
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "",
+            "teasers": []
+          }
+        }
+      ]
+    },
+    "searchProductFields": {
+      "brand": "test-brand-name",
+      "productName": "Gold Standard 100% Whey",
+      "description": "Gold standard 100% whey protein isolates"
+    }
+  }
+]

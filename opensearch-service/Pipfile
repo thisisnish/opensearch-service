@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"] }
+newrelic = "*"
+structlog = "*"
+flask = "*"
+boto3 = "*"
+opensearch-py = "*"
+bcrypt = "*"
+django = "==4.1.13"
+requests= "*"
+types-requests = "*"
+pydantic = "*"
+ujson = "*"
+asyncio = "*"
+
+[dev-packages]
+black = "*"
+isort = "*"
+mypy = "*"
+pytest = "*"
+httpx = "*"
+
+[requires]
+python_version = "3.11"

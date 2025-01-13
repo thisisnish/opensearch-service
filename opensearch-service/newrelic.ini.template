@@ -1,0 +1,7 @@
+[newrelic]
+license_key=NEW_RELIC_LICENSE_KEY_PLACEHOLDER
+app_name=marketplace-search-service
+log_level=info
+
+application_logging.enabled=true
+application_logging.forwarding.enabled=true

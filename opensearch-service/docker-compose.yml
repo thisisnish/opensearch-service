@@ -1,0 +1,15 @@
+version:  "24.06"
+
+services:
+  web:
+    environment:
+      - NEW_RELIC_CONFIG_FILE=newrelic.ini
+      - NEW_RELIC_APPLICATION_LOGGING_ENABLED=true
+      - NEW_RELIC_APPLICATION_LOGGING_FORWARDING_ENABLED=true
+      - AWS_REGION=us-east-2
+    container_name: marketplace-search-service
+    ports:
+      - "8000:8000"
+    build:
+      context: .
+      dockerfile: Dockerfile
